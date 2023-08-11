@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400"
+   height="200"
+   version="1.1"
+   id="svg398"
+   sodipodi:docname="wordcloud.svg"
+   inkscape:export-filename="wordcloud.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs402" />
+  <sodipodi:namedview
+     id="namedview400"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.3902367"
+     inkscape:cx="138.6892"
+     inkscape:cy="115.88811"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg398" />
+  <style
+     id="style2">text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+  <rect
+     width="100%"
+     height="100%"
+     style="fill:white"
+     id="rect4" />
+  <text
+     transform="translate(46,161)"
+     font-size="79"
+     style="fill:rgb(67, 61, 132);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text6">vaccine</text>
+  <text
+     transform="translate(86,66)"
+     font-size="79"
+     style="fill:rgb(39, 127, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text8">people</text>
+  <text
+     transform="translate(19,183)"
+     font-size="38"
+     style="fill:rgb(144, 215, 67);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text10">cancer</text>
+  <text
+     transform="translate(56,116) rotate(-90)"
+     font-size="35"
+     style="fill:rgb(31, 151, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text12">new</text>
+  <text
+     transform="translate(115,102)"
+     font-size="34"
+     style="fill:rgb(71, 44, 122);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text14">death</text>
+  <text
+     transform="translate(154,190)"
+     font-size="34"
+     style="fill:rgb(66, 64, 134);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text16">children</text>
+  <text
+     transform="translate(242,93)"
+     font-size="34"
+     style="fill:rgb(48, 106, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text18">disease</text>
+  <text
+     transform="translate(83,105) rotate(-90)"
+     font-size="33"
+     style="fill:rgb(69, 5, 89);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text20">time</text>
+  <text
+     transform="translate(348,186)"
+     font-size="33"
+     style="fill:rgb(31, 153, 138);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text22">US</text>
+  <text
+     transform="translate(18,80) rotate(-90)"
+     font-size="32"
+     style="fill:rgb(72, 40, 120);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text24">now</text>
+  <text
+     transform="translate(288,111)"
+     font-size="24"
+     style="fill:rgb(197, 224, 33);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text26">virus</text>
+  <text
+     transform="translate(16,157) rotate(-90)"
+     font-size="24"
+     style="fill:rgb(165, 219, 54);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text28">year</text>
+  <text
+     transform="translate(382,67) rotate(-90)"
+     font-size="24"
+     style="fill:rgb(61, 78, 138);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text30">many</text>
+  <text
+     transform="translate(21,22)"
+     font-size="23"
+     style="fill:rgb(71, 46, 124);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text32">world</text>
+  <text
+     transform="translate(389,154) rotate(-90)"
+     font-size="23"
+     style="fill:rgb(68, 1, 84);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text34">even</text>
+  <text
+     transform="translate(22,34)"
+     font-size="22"
+     style="fill:rgb(31, 154, 138);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text36">may</text>
+  <text
+     transform="translate(214,13)"
+     font-size="21"
+     style="fill:rgb(71, 19, 101);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text38">case</text>
+  <text
+     transform="translate(111,17)"
+     font-size="21"
+     style="fill:rgb(38, 173, 129);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text40">research</text>
+  <text
+     transform="translate(30,191)"
+     font-size="12"
+     style="fill:rgb(105, 205, 91);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text42">government</text>
+  <text
+     transform="translate(125,112)"
+     font-size="12"
+     style="fill:rgb(168, 219, 52);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text44">doctor</text>
+  <text
+     transform="translate(30,106) rotate(-90)"
+     font-size="12"
+     style="fill:rgb(53, 95, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text46">American</text>
+  <text
+     transform="translate(201,112)"
+     font-size="12"
+     style="fill:rgb(72, 40, 120);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text48">state</text>
+  <text
+     transform="translate(308,13)"
+     font-size="12"
+     style="fill:rgb(31, 160, 136);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text50">first</text>
+  <text
+     transform="translate(65,113)"
+     font-size="12"
+     style="fill:rgb(63, 71, 136);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text52">health</text>
+  <text
+     transform="translate(215,136)"
+     font-size="12"
+     style="fill:rgb(59, 81, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text54">human</text>
+  <text
+     transform="translate(324,187)"
+     font-size="12"
+     style="fill:rgb(72, 33, 115);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text56">day</text>
+  <text
+     transform="translate(344,192)"
+     font-size="12"
+     style="fill:rgb(253, 231, 37);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text58">cause</text>
+  <text
+     transform="translate(214,146)"
+     font-size="12"
+     style="fill:rgb(147, 215, 65);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text60">know</text>
+  <text
+     transform="translate(102,192)"
+     font-size="12"
+     style="fill:rgb(63, 188, 115);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text62">medical</text>
+  <text
+     transform="translate(162,138)"
+     font-size="12"
+     style="fill:rgb(63, 71, 136);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text64">way</text>
+  <text
+     transform="translate(7,93)"
+     font-size="12"
+     style="fill:rgb(90, 200, 100);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text66">Dr</text>
+  <text
+     transform="translate(136,78)"
+     font-size="12"
+     style="fill:rgb(70, 51, 127);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text68">number</text>
+  <text
+     transform="translate(345,11)"
+     font-size="12"
+     style="fill:rgb(37, 131, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text70">use</text>
+  <text
+     transform="translate(24,145)"
+     font-size="12"
+     style="fill:rgb(36, 170, 131);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text72">fact</text>
+  <text
+     transform="translate(16,127)"
+     font-size="12"
+     style="fill:rgb(35, 136, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text74">drug</text>
+  <text
+     transform="translate(287,54) rotate(-90)"
+     font-size="12"
+     style="fill:rgb(68, 57, 131);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text76">found</text>
+  <text
+     transform="translate(282,122) rotate(-90)"
+     font-size="12"
+     style="fill:rgb(35, 137, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text78">food</text>
+  <text
+     transform="translate(20,40)"
+     font-size="12"
+     style="fill:rgb(45, 178, 125);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text80">see</text>
+  <text
+     transform="translate(24,157)"
+     font-size="12"
+     style="fill:rgb(59, 82, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text82">much</text>
+  <text
+     transform="translate(171,111)"
+     font-size="12"
+     style="fill:rgb(47, 108, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text84">used</text>
+  <text
+     transform="translate(392,84) rotate(-90)"
+     font-size="12"
+     style="fill:rgb(31, 160, 136);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text86">public</text>
+  <text
+     transform="translate(219,19)"
+     font-size="7"
+     style="fill:rgb(63, 72, 137);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text88">infection</text>
+  <text
+     transform="translate(299,167)"
+     font-size="7"
+     style="fill:rgb(36, 134, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text90">coronavirus</text>
+  <text
+     transform="translate(356,148)"
+     font-size="7"
+     style="fill:rgb(66, 65, 134);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text92">CDC</text>
+  <text
+     transform="translate(1,166)"
+     font-size="7"
+     style="fill:rgb(63, 188, 115);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text94">make</text>
+  <text
+     transform="translate(218,100)"
+     font-size="7"
+     style="fill:rgb(72, 24, 106);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text96">million</text>
+  <text
+     transform="translate(203,78)"
+     font-size="7"
+     style="fill:rgb(38, 130, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text98">patient</text>
+  <text
+     transform="translate(274,152) rotate(-90)"
+     font-size="7"
+     style="fill:rgb(71, 14, 97);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text100">well</text>
+  <text
+     transform="translate(304,19)"
+     font-size="7"
+     style="fill:rgb(39, 127, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text102">reported</text>
+  <text
+     transform="translate(91,11)"
+     font-size="7"
+     style="fill:rgb(31, 158, 137);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text104">body</text>
+  <text
+     transform="translate(90,96)"
+     font-size="7"
+     style="fill:rgb(72, 193, 110);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text106">system</text>
+  <text
+     transform="translate(195,39)"
+     font-size="7"
+     style="fill:rgb(55, 90, 140);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text108">two</text>
+  <text
+     transform="translate(290,196)"
+     font-size="7"
+     style="fill:rgb(70, 10, 93);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text110">take</text>
+  <text
+     transform="translate(2,188)"
+     font-size="7"
+     style="fill:rgb(33, 166, 133);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text112">ebola</text>
+  <text
+     transform="translate(41,46)"
+     font-size="7"
+     style="fill:rgb(194, 223, 35);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text114">thing</text>
+  <text
+     transform="translate(381,196)"
+     font-size="7"
+     style="fill:rgb(44, 115, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text116">back</text>
+  <text
+     transform="translate(166,146)"
+     font-size="7"
+     style="fill:rgb(205, 225, 29);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text118">report</text>
+  <text
+     transform="translate(309,52)"
+     font-size="7"
+     style="fill:rgb(229, 228, 25);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text120">work</text>
+  <text
+     transform="translate(231,196)"
+     font-size="7"
+     style="fill:rgb(124, 210, 80);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text122">science</text>
+  <text
+     transform="translate(141,159) rotate(-90)"
+     font-size="7"
+     style="fill:rgb(147, 215, 65);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text124">including</text>
+  <text
+     transform="translate(194,196)"
+     font-size="7"
+     style="fill:rgb(112, 207, 87);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text126">don t</text>
+  <text
+     transform="translate(311,196)"
+     font-size="7"
+     style="fill:rgb(37, 171, 130);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text128">another</text>
+  <text
+     transform="translate(304,28)"
+     font-size="7"
+     style="fill:rgb(92, 200, 99);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text130">effect</text>
+  <text
+     transform="translate(229,152)"
+     font-size="7"
+     style="fill:rgb(70, 11, 94);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text132">died</text>
+  <text
+     transform="translate(284,168)"
+     font-size="7"
+     style="fill:rgb(34, 167, 133);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text134">AID</text>
+  <text
+     transform="translate(395,137) rotate(-90)"
+     font-size="7"
+     style="fill:rgb(192, 223, 37);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text136">scientist</text>
+  <text
+     transform="translate(338,19)"
+     font-size="7"
+     style="fill:rgb(34, 168, 132);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text138">control</text>
+  <text
+     transform="translate(322,174)"
+     font-size="7"
+     style="fill:rgb(32, 146, 140);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text140">called</text>
+  <text
+     transform="translate(101,43)"
+     font-size="7"
+     style="fill:rgb(31, 161, 135);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text142">flu</text>
+  <text
+     transform="translate(393,37) rotate(-90)"
+     font-size="7"
+     style="fill:rgb(58, 186, 118);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text144">program</text>
+  <text
+     transform="translate(102,76)"
+     font-size="7"
+     style="fill:rgb(70, 8, 92);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text146">right</text>
+  <text
+     transform="translate(157,196)"
+     font-size="7"
+     style="fill:rgb(139, 214, 70);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text148">chemical</text>
+  <text
+     transform="translate(2,195)"
+     font-size="7"
+     style="fill:rgb(59, 187, 117);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text150">really</text>
+  <text
+     transform="translate(266,11)"
+     font-size="7"
+     style="fill:rgb(44, 114, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text152">part</text>
+  <text
+     transform="translate(305,34)"
+     font-size="7"
+     style="fill:rgb(31, 158, 137);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text154">never</text>
+  <text
+     transform="translate(297,149)"
+     font-size="7"
+     style="fill:rgb(31, 150, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text156">made</text>
+  <text
+     transform="translate(61,122)"
+     font-size="7"
+     style="fill:rgb(72, 38, 119);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text158">cell</text>
+  <text
+     transform="translate(89,132)"
+     font-size="7"
+     style="fill:rgb(192, 223, 37);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text160">test</text>
+  <text
+     transform="translate(343,53)"
+     font-size="7"
+     style="fill:rgb(45, 178, 125);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text162">known</text>
+  <text
+     transform="translate(230,55) rotate(-90)"
+     font-size="7"
+     style="fill:rgb(42, 176, 127);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text164">aluminum</text>
+  <text
+     transform="translate(180,71)"
+     font-size="7"
+     style="fill:rgb(149, 216, 64);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text166">come</text>
+  <text
+     transform="translate(171,23)"
+     font-size="7"
+     style="fill:rgb(173, 220, 48);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text168">risk</text>
+  <text
+     transform="translate(261,194)"
+     font-size="7"
+     style="fill:rgb(52, 96, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text170">course</text>
+  <text
+     transform="translate(395,187) rotate(-90)"
+     font-size="7"
+     style="fill:rgb(251, 231, 35);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text172">medicine</text>
+  <text
+     transform="translate(152,53)"
+     font-size="7"
+     style="fill:rgb(71, 16, 99);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text174">studies</text>
+  <text
+     transform="translate(265,128)"
+     font-size="7"
+     style="fill:rgb(30, 155, 138);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text176">study</text>
+  <text
+     transform="translate(40,196)"
+     font-size="6"
+     style="fill:rgb(32, 146, 140);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text178">vaccination</text>
+  <text
+     transform="translate(112,131)"
+     font-size="6"
+     style="fill:rgb(58, 84, 140);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text180">re</text>
+  <text
+     transform="translate(123,24)"
+     font-size="6"
+     style="fill:rgb(55, 91, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text182">think</text>
+  <text
+     transform="translate(242,128) rotate(-90)"
+     font-size="6"
+     style="fill:rgb(223, 227, 24);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text184">around</text>
+  <text
+     transform="translate(260,166)"
+     font-size="6"
+     style="fill:rgb(72, 24, 106);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text186">parent</text>
+  <text
+     transform="translate(292,34) rotate(-90)"
+     font-size="6"
+     style="fill:rgb(63, 71, 136);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text188">result</text>
+  <text
+     transform="translate(215,90)"
+     font-size="6"
+     style="fill:rgb(31, 148, 140);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text190">article</text>
+  <text
+     transform="translate(284,159) rotate(-90)"
+     font-size="6"
+     style="fill:rgb(170, 220, 50);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text192">actually</text>
+  <text
+     transform="translate(227,167)"
+     font-size="6"
+     style="fill:rgb(35, 137, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text194">China</text>
+  <text
+     transform="translate(330,158) rotate(-90)"
+     font-size="6"
+     style="fill:rgb(31, 154, 138);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text196">outbreak</text>
+  <text
+     transform="translate(85,197)"
+     font-size="4"
+     style="fill:rgb(129, 211, 77);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text198">population</text>
+  <text
+     transform="translate(5,97)"
+     font-size="4"
+     style="fill:rgb(221, 227, 24);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text200">without</text>
+  <text
+     transform="translate(360,108)"
+     font-size="4"
+     style="fill:rgb(68, 1, 84);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text202">far</text>
+  <text
+     transform="translate(110,196)"
+     font-size="4"
+     style="fill:rgb(52, 182, 121);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text204">information</text>
+  <text
+     transform="translate(57,85)"
+     font-size="4"
+     style="fill:rgb(253, 231, 37);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text206">evidence</text>
+  <text
+     transform="translate(134,60) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(32, 164, 134);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text208">still</text>
+  <text
+     transform="translate(315,71)"
+     font-size="4"
+     style="fill:rgb(49, 102, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text210">live</text>
+  <text
+     transform="translate(370,8)"
+     font-size="4"
+     style="fill:rgb(69, 55, 129);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text212">problem</text>
+  <text
+     transform="translate(384,94)"
+     font-size="4"
+     style="fill:rgb(31, 151, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text214">every</text>
+  <text
+     transform="translate(58,70)"
+     font-size="4"
+     style="fill:rgb(71, 44, 122);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text216">need</text>
+  <text
+     transform="translate(357,134) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(72, 31, 112);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text218">CIA</text>
+  <text
+     transform="translate(16,113)"
+     font-size="4"
+     style="fill:rgb(38, 129, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text220">high</text>
+  <text
+     transform="translate(22,5)"
+     font-size="4"
+     style="fill:rgb(157, 217, 59);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text222">money</text>
+  <text
+     transform="translate(8,172)"
+     font-size="4"
+     style="fill:rgb(63, 188, 115);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text224">help</text>
+  <text
+     transform="translate(185,167)"
+     font-size="4"
+     style="fill:rgb(176, 221, 47);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text226">become</text>
+  <text
+     transform="translate(190,133) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(58, 83, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text228">COVID</text>
+  <text
+     transform="translate(173,114)"
+     font-size="4"
+     style="fill:rgb(210, 226, 27);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text230">country</text>
+  <text
+     transform="translate(257,45) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(149, 216, 64);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text232">good</text>
+  <text
+     transform="translate(268,64)"
+     font-size="4"
+     style="fill:rgb(33, 165, 133);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text234">look</text>
+  <text
+     transform="translate(251,116)"
+     font-size="4"
+     style="fill:rgb(37, 133, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text236">fluoride</text>
+  <text
+     transform="translate(276,72)"
+     font-size="4"
+     style="fill:rgb(47, 108, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text238">data</text>
+  <text
+     transform="translate(31,47)"
+     font-size="4"
+     style="fill:rgb(52, 96, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text240">yet</text>
+  <text
+     transform="translate(141,116)"
+     font-size="4"
+     style="fill:rgb(78, 195, 107);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text242">brain</text>
+  <text
+     transform="translate(90,19)"
+     font-size="4"
+     style="fill:rgb(147, 215, 65);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text244">based</text>
+  <text
+     transform="translate(324,115)"
+     font-size="4"
+     style="fill:rgb(241, 229, 29);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text246">United States</text>
+  <text
+     transform="translate(153,168)"
+     font-size="4"
+     style="fill:rgb(68, 191, 112);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text248">told</text>
+  <text
+     transform="translate(284,115)"
+     font-size="4"
+     style="fill:rgb(137, 213, 72);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text250">individual</text>
+  <text
+     transform="translate(297,156)"
+     font-size="4"
+     style="fill:rgb(70, 48, 126);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text252">attack</text>
+  <text
+     transform="translate(7,179)"
+     font-size="4"
+     style="fill:rgb(38, 130, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text254">month</text>
+  <text
+     transform="translate(287,70)"
+     font-size="4"
+     style="fill:rgb(31, 162, 135);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text256">treatment</text>
+  <text
+     transform="translate(349,197)"
+     font-size="4"
+     style="fill:rgb(56, 89, 140);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text258">According</text>
+  <text
+     transform="translate(128,69)"
+     font-size="4"
+     style="fill:rgb(42, 176, 127);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text260">going</text>
+  <text
+     transform="translate(36,5)"
+     font-size="4"
+     style="fill:rgb(68, 191, 112);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text262">researcher</text>
+  <text
+     transform="translate(310,115)"
+     font-size="4"
+     style="fill:rgb(101, 203, 94);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text264">point</text>
+  <text
+     transform="translate(342,36)"
+     font-size="4"
+     style="fill:rgb(62, 76, 138);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text266">want</text>
+  <text
+     transform="translate(131,27)"
+     font-size="4"
+     style="fill:rgb(49, 103, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text268">go</text>
+  <text
+     transform="translate(372,158)"
+     font-size="4"
+     style="fill:rgb(137, 213, 72);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text270">America</text>
+  <text
+     transform="translate(174,63)"
+     font-size="4"
+     style="fill:rgb(71, 44, 122);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text272">media</text>
+  <text
+     transform="translate(110,109)"
+     font-size="4"
+     style="fill:rgb(47, 107, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text274">three</text>
+  <text
+     transform="translate(5,13) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(72, 33, 115);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text276">says</text>
+  <text
+     transform="translate(339,71)"
+     font-size="4"
+     style="fill:rgb(63, 71, 136);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text278">something</text>
+  <text
+     transform="translate(362,98)"
+     font-size="4"
+     style="fill:rgb(39, 128, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text280">official</text>
+  <text
+     transform="translate(21,145) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(84, 197, 104);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text282">might</text>
+  <text
+     transform="translate(13,21) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(50, 182, 122);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text284">New York</text>
+  <text
+     transform="translate(393,151) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(34, 167, 133);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text286">child</text>
+  <text
+     transform="translate(242,44)"
+     font-size="4"
+     style="fill:rgb(71, 46, 124);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text288">mean</text>
+  <text
+     transform="translate(25,118)"
+     font-size="4"
+     style="fill:rgb(71, 17, 100);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text290">countries</text>
+  <text
+     transform="translate(181,40) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(64, 189, 114);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text292">power</text>
+  <text
+     transform="translate(258,18)"
+     font-size="4"
+     style="fill:rgb(149, 216, 64);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text294">within</text>
+  <text
+     transform="translate(304,57)"
+     font-size="4"
+     style="fill:rgb(192, 223, 37);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text296">different</text>
+  <text
+     transform="translate(88,57) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(70, 10, 93);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text298">immune system</text>
+  <text
+     transform="translate(397,68) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(74, 193, 109);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text300">University</text>
+  <text
+     transform="translate(214,69)"
+     font-size="4"
+     style="fill:rgb(72, 37, 118);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text302">later</text>
+  <text
+     transform="translate(300,135)"
+     font-size="4"
+     style="fill:rgb(69, 5, 89);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text304">life</text>
+  <text
+     transform="translate(306,41)"
+     font-size="4"
+     style="fill:rgb(62, 74, 137);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text306">hospital</text>
+  <text
+     transform="translate(34,81) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(253, 231, 37);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text308">continue</text>
+  <text
+     transform="translate(89,83) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(53, 183, 121);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text310">experiment</text>
+  <text
+     transform="translate(69,103)"
+     font-size="4"
+     style="fill:rgb(149, 216, 64);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text312">viruses</text>
+  <text
+     transform="translate(27,132)"
+     font-size="4"
+     style="fill:rgb(92, 200, 99);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text314">die</text>
+  <text
+     transform="translate(227,171)"
+     font-size="4"
+     style="fill:rgb(55, 184, 120);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text316">area</text>
+  <text
+     transform="translate(28,173)"
+     font-size="4"
+     style="fill:rgb(57, 86, 140);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text318">among</text>
+  <text
+     transform="translate(78,157)"
+     font-size="4"
+     style="fill:rgb(46, 109, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text320">group</text>
+  <text
+     transform="translate(194,51)"
+     font-size="4"
+     style="fill:rgb(49, 103, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text322">animal</text>
+  <text
+     transform="translate(361,70)"
+     font-size="4"
+     style="fill:rgb(62, 73, 137);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text324">percent</text>
+  <text
+     transform="translate(142,173)"
+     font-size="4"
+     style="fill:rgb(38, 129, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text326">rate</text>
+  <text
+     transform="translate(103,54)"
+     font-size="4"
+     style="fill:rgb(90, 200, 100);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text328">least</text>
+  <text
+     transform="translate(109,174) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(31, 152, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text330">lot</text>
+  <text
+     transform="translate(100,82)"
+     font-size="4"
+     style="fill:rgb(34, 167, 133);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text332">believe</text>
+  <text
+     transform="translate(208,150)"
+     font-size="4"
+     style="fill:rgb(78, 195, 107);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text334">blood</text>
+  <text
+     transform="translate(252,97)"
+     font-size="4"
+     style="fill:rgb(147, 215, 65);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text336">spread</text>
+  <text
+     transform="translate(45,107)"
+     font-size="4"
+     style="fill:rgb(96, 202, 96);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text338">Project</text>
+  <text
+     transform="translate(298,140)"
+     font-size="4"
+     style="fill:rgb(71, 42, 122);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text340">already</text>
+  <text
+     transform="translate(282,97)"
+     font-size="4"
+     style="fill:rgb(65, 68, 135);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text342">M</text>
+  <text
+     transform="translate(34,106) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(46, 109, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text344">interest</text>
+  <text
+     transform="translate(61,127)"
+     font-size="4"
+     style="fill:rgb(48, 105, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text346">better</text>
+  <text
+     transform="translate(35,134)"
+     font-size="4"
+     style="fill:rgb(45, 178, 125);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text348">likely</text>
+  <text
+     transform="translate(216,183) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(231, 228, 25);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text350">increase</text>
+  <text
+     transform="translate(88,89)"
+     font-size="4"
+     style="fill:rgb(239, 229, 28);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text352">bill</text>
+  <text
+     transform="translate(190,118)"
+     font-size="4"
+     style="fill:rgb(72, 193, 110);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text354">put</text>
+  <text
+     transform="translate(164,183)"
+     font-size="4"
+     style="fill:rgb(55, 91, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text356">find</text>
+  <text
+     transform="translate(140,196)"
+     font-size="4"
+     style="fill:rgb(34, 168, 132);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text358">caused</text>
+  <text
+     transform="translate(325,120)"
+     font-size="4"
+     style="fill:rgb(202, 225, 31);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text360">Africa</text>
+  <text
+     transform="translate(361,116)"
+     font-size="4"
+     style="fill:rgb(70, 10, 93);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text362">using</text>
+  <text
+     transform="translate(108,114)"
+     font-size="4"
+     style="fill:rgb(94, 201, 98);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text364">little</text>
+  <text
+     transform="translate(69,90)"
+     font-size="4"
+     style="fill:rgb(35, 138, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text366">due</text>
+  <text
+     transform="translate(273,188) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(70, 51, 127);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text368">must</text>
+  <text
+     transform="translate(142,180)"
+     font-size="4"
+     style="fill:rgb(170, 220, 50);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text370">show</text>
+  <text
+     transform="translate(81,150)"
+     font-size="4"
+     style="fill:rgb(41, 175, 127);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text372">order</text>
+  <text
+     transform="translate(148,38)"
+     font-size="4"
+     style="fill:rgb(69, 5, 89);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text374">claim</text>
+  <text
+     transform="translate(325,71)"
+     font-size="4"
+     style="fill:rgb(147, 215, 65);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text376">real</text>
+  <text
+     transform="translate(264,23)"
+     font-size="4"
+     style="fill:rgb(155, 217, 60);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text378">source</text>
+  <text
+     transform="translate(186,76)"
+     font-size="4"
+     style="fill:rgb(35, 169, 131);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text380">long</text>
+  <text
+     transform="translate(292,54) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(72, 27, 109);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text382">keep</text>
+  <text
+     transform="translate(198,43)"
+     font-size="4"
+     style="fill:rgb(31, 149, 139);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text384">person</text>
+  <text
+     transform="translate(86,137)"
+     font-size="4"
+     style="fill:rgb(34, 140, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text386">school</text>
+  <text
+     transform="translate(216,195)"
+     font-size="4"
+     style="fill:rgb(115, 208, 86);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text388">lab</text>
+  <text
+     transform="translate(275,51) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(55, 91, 141);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text390">published</text>
+  <text
+     transform="translate(357,174) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(41, 123, 142);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text392">agent</text>
+  <text
+     transform="translate(244,50)"
+     font-size="4"
+     style="fill:rgb(124, 210, 80);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text394">victim</text>
+  <text
+     transform="translate(319,189) rotate(-90)"
+     font-size="4"
+     style="fill:rgb(70, 10, 93);-inkscape-font-specification:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-family:'Droid Sans Mono for Powerline Plus Nerd File Types Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text396">industry</text>
+</svg>
