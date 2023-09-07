@@ -1,6 +1,6 @@
 # Contrastive Pre-Training of Transformer Models for Computational Framing Analysis
-This repository contains the datasets, notebooks, and mCPT framework used in [mCPT at SemEval-2023 Task 3](https://aclanthology.org/2023.semeval-1.130/) as well as within the context of my thesis.
-Notebooks 0x contain an analysis of the data and notebooks 3x and 4x correspond to the sections methodology and results in my thesis (to be uploaded upon completion). `mcpt` contains the _mCPT_
+This repository contains the datasets, notebooks, and mCPT framework used in [mCPT at SemEval-2023 Task 3](https://aclanthology.org/2023.semeval-1.130/) as well as within the context of my [thesis](thesis.pdf).
+Notebooks 0x contain an analysis of the data and notebooks 3x and 4x correspond to the sections methodology and results in my thesis. `mcpt` contains the _mCPT_
 framework implemented in pyTorch.
 
 ![mCPT-Overview](figures/training.png)
