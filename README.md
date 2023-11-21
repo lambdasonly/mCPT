@@ -1,11 +1,11 @@
 # Contrastive Pre-Training of Transformer Models for Computational Framing Analysis
-This repository contains the datasets, notebooks, and mCPT framework used in [mCPT at SemEval-2023 Task 3](https://aclanthology.org/2023.semeval-1.130/) as well as within the context of my [thesis](thesis.pdf).
+This repository contains the notebooks and mCPT framework used in [mCPT at SemEval-2023 Task 3](https://aclanthology.org/2023.semeval-1.130/) as well as within the context of my [thesis](thesis.pdf).
 Notebooks 0x contain an analysis of the data and notebooks 3x and 4x correspond to the sections methodology and results in my thesis. `mcpt` contains the _mCPT_
-framework implemented in pyTorch.
+pyTorch framework.
 
 ![mCPT-Overview](figures/training.png)
 
-_Ertl, A., Reiter-Haas, M., Innerhofer, K., and Lex, E. (2023). Minicpt at semeval-2023 task 3: Multi-label-aware contrastive pretraining for framing prediction with limited multilingual data. In Proceedings of the 17th International Workshop on Semantic Evaluation, SemEval 2023, Toronto, Canada._
+_Ertl, A., Reiter-Haas, M., Innerebner, K., and Lex, E. (2023). mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection. In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 941–949, Toronto, Canada. Association for Computational Linguistics._
 
 
 ## Datasets
